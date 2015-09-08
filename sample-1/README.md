@@ -30,3 +30,10 @@ This program should sort a sentence's words by their length and output a new "se
     > one two six ten four five nine three seven eight
 
 etc.
+
+Wes Duck notes:
+All of the requirements for isPangram.exe and sortWords.exe have been met
+ - isPangram is the console app meeting the requirements for isPangram.exe
+ - sortWords is the console app meeting the requirements for sortWords.exe
+
+Let me know if something doesn't behave as expected
