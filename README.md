@@ -11,7 +11,7 @@ All of the requirements for isPangram.exe and sortWords.exe have been met
  - isPangram is the console app meeting the requirements for isPangram.exe
  - sortWords is the console app meeting the requirements for sortWords.exe
 
-Let me know if something doesn't behave as expected
+
 
 Wes Duck sample 2 notes:
 All of the above requirements have been met, including the specific json formats for each of the various methods. 
@@ -30,4 +30,6 @@ The MongoDB settings are in the web.config of the pangramWebService, and are cur
 The database itself is in the mongo default, data/db, configure this however you want on your system
 
 If an entered pangrams is EXACTLY the same as one already in the database (including spaces and punctuation), it will not be entered into the repository a second time. 
+
+Let me know if something doesn't behave as expected
 
